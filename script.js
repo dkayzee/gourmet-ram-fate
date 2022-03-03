@@ -3,7 +3,7 @@ var imgSlider = document.querySelector("#heroSlider");
 var imgPosition = 0;
 
 function goLeft() {
-  if (imgPosition < 2) {
+  if (imgPosition < 3) {
     imgPosition++;
   }
 
